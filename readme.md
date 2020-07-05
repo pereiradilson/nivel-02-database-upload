@@ -1,4 +1,4 @@
-# GoSatck - Challenge: Database upload
+# GoStack - Challenge: Database upload
 
 ## About
 
